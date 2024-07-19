@@ -130,7 +130,3 @@ def quickSort(arr, start, end):
         quickSort(arr, q + 1, end)
 
 
-arr = [5, 6, 2, 3, 1, 10]
-arr2 = [6, 5, 4, 3, 2, 1]
-quickSort(arr, 0 , 5)
-print(arr)

@@ -12,7 +12,9 @@ class Vector:
             self.__size = 0
             self.__vector = [None]*self.__capacity
         else:
-            self.__size = size
+            s
+            elf.__size = size
+            
             self.__capacity = self.__size * 2
             self.__vector = [None]*self.__capacity
 
